@@ -3,7 +3,7 @@
 //Define our site URL
 define("BASE_PATH", "http://localhost");
 //Define our APP basepath
-define("APP_PATH", "/rzfw");
+define("APP_PATH", "/12");
 
 //Default Controller
 define("DEFAULT_CONTROLLER", 'welcome');
